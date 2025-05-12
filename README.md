@@ -35,12 +35,12 @@ This dataset enables comprehensive analysis of trends and factors that contribut
 The HR analytics dashboard provides an interactive, real-time view of key HR metrics and insights, designed to help stakeholders visualize and understand workforce trends.
 
 # Conclusions:
-1.The Attrition rate among men was higher than that among women
-2.The highest attrition rates were observed in Research & Development(Laboratory technician and research scientist) and sales(sales executive and reprentative) departments
-3.Low salaries and small percentage hikes in salary are associated with higher attrition rates
-4.Most employee tends to leave the organization after completing one year
-5.A notable number of employees exit the organization within a year being promoted
-6.Most of the employees who left were dissatisfied with the enviroment, as they give it a rating of 1
+1. The Attrition rate among men was higher than that among women.
+2. The highest attrition rates were observed in Research & Development(Laboratory technician and research scientist) and sales(sales executive and reprentative) departments.
+3. Low salaries and small percentage hikes in salary are associated with higher attrition rates.
+4. Most employee tends to leave the organization after completing one year.
+5. A notable number of employees exit the organization within a year being promoted.
+6. Most of the employees who left were dissatisfied with the enviroment, as they give it a rating of 1.
 
 
 
