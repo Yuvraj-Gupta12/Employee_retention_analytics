@@ -29,3 +29,5 @@ This dataset enables comprehensive analysis of trends and factors that contribut
  1. Data processing     : Excel
  2. Database            :PostgreSQL
  3. Visualization        :Power BI
+# Dashboard: 
+![Image](https://github.com/user-attachments/assets/69a7ce4b-97ec-45cd-9f53-0f4a07270fb5)
