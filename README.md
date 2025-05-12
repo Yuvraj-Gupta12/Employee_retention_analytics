@@ -25,3 +25,7 @@ The dataset used in this project contains employee information relevant to under
 This dataset enables comprehensive analysis of trends and factors that contribute to employee turnover.
 
 **Note : This is a fictional dataset inspired by real-world HR Scenerios. No Confidential or personal information is included.**
+## Tools Used:
+ 1. Data processing     : Excel
+ 2. Database            :PostgreSQL
+ 3. Visualization        :Power BI
