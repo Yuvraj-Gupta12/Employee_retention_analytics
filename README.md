@@ -21,5 +21,7 @@ The dataset used in this project contains employee information relevant to under
 10. Performance rating
 11. Job Satisfaction
 12. Attrition Status(Yes/No)
+    
 This dataset enables comprehensive analysis of trends and factors that contribute to employee turnover.
-Note : This is a fictional dataset inspired by real-world HR Scenerios. No Confidential or personal information is included.
+
+**Note : This is a fictional dataset inspired by real-world HR Scenerios. No Confidential or personal information is included.**
