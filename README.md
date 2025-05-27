@@ -1,4 +1,4 @@
-# HR Data Analysis
+# Employee Attrition Analytics
 ## About
 This Project focuses on analyzing employee attrition data to uncover trends and key factors contributing to workforce turnover. Using data analytics tools, the analysis explores variable such as age, job role, department, total working years(tenure), Salary
 and performance ratings to understand patterns in exit. The insights aim to support HR  teams in making data-driven decisions to reduce attrition, improve employee engagement, and enhance organizational stability.
